@@ -56,7 +56,6 @@ Android's global market share and open-source nature make it a prime target for 
 
 | File Name                                         | Description                                     |
 |--------------------------------------------------|-------------------------------------------------|
-| [`Project 4 notes and steps.docx`](./Project%204%20notes%20and%20steps.docx)  | Step-by-step instructions and commands used    |
 | [`Emmanuel Adewa -BootCon Presentation 2025.pptx.pdf`](./Emmanuel%20Adewa%20-BootCon%20Presentation%202025.pptx.pdf) | Final project slide deck                       |
 | [`Project 4 Demonstration.mp4`](./Project%204%20Demonstration.mp4)            | Live or recorded hacking demo                  |
 
